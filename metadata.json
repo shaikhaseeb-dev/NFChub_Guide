@@ -1,0 +1,6 @@
+{
+  "name": "NFChub Reseller Playbook",
+  "description": "Official digital edition of the NFChub Reseller Playbook. A complete guide to finding local businesses, selling NFC products, and growing wholesale profits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
